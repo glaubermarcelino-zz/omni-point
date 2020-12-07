@@ -1,4 +1,5 @@
-# Polinize - Desafio
+## Polinize Desafio 
+#Omni Point
 
 <h3 align="center">Desenvolvido para o Desafio Polinize</h3>
 <h3 align="center">É um aplicativo com o intuito de sanar as maiores dores tanto do cliente (empreendedores) quando do fornecedor, através da coleta de dados e cruzamento de informações</h3>
@@ -23,7 +24,7 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://github.com/glaubermarcelino/omni-point/blob/main/screens/omni-point.gif?raw=true" alt="Omni Point" /> </p>
+<p align="center"> <img src="https://github.com/glaubermarcelino/omni-point/blob/main/src/Omni-Point-App.gif?raw=true" alt="Omni Point" /> </p>
 
 
 ### `Clone this project`
