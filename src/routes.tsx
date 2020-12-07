@@ -76,16 +76,7 @@ const Routes = () => {
           }}
           component={PropostaDetalhe}
         />
-        <AppStack.Screen
-          name="Proposta"
-          options={{
-            tabBarLabel: 'Proposta',
-            tabBarIcon: ({color, size}) => (
-              <Image source={require('./assets/Icons/proposta.png')} />
-            ),
-          }}
-          component={Proposta}
-        />
+       
       </AppStack.Navigator>
     </NavigationContainer>
   );
