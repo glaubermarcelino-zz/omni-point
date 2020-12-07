@@ -50,4 +50,4 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 
 - [Layout Mobile](https://www.figma.com/file/YPE3clsU6fgt4XAsYRzl6q/Polinize?node-id=572%3A298)
 
-Feito com ♥ by <strong><a href="https://www.linkedin.com/in/gtstecnologia/">Glauber Marcelino, </a></strong> <strong><a href="https://www.linkedin.com/in/flaviafirmino/">Flavia Firmino, </a></strong> <strong><a href="https://www.linkedin.com/in/vanessa-sousa-9a195386/">Vanessa Sousa</a></strong><strong><a href="https://www.linkedin.com/in/haa/">Henrique Araujo Azevedo</a></strong> 
+Feito com ♥ by <strong><a href="https://www.linkedin.com/in/gtstecnologia/">Glauber Marcelino, </a></strong> <strong><a href="https://www.linkedin.com/in/flaviafirmino/">Flavia Firmino, </a></strong> <strong><a href="https://www.linkedin.com/in/vanessa-sousa-9a195386/">Vanessa Sousa, </a></strong><strong><a href="https://www.linkedin.com/in/haa/">Henrique Araujo Azevedo</a></strong> 
